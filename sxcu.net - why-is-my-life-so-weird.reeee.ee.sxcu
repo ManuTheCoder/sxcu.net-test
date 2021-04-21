@@ -1,0 +1,9 @@
+{
+    "Name": "sxcu.net - why-is-my-life-so-weird.reeee.ee",
+    "DestinationType": "ImageUploader",
+    "RequestURL": "https://why-is-my-life-so-weird.reeee.ee/upload",
+    "FileFormName": "image",
+    "URL": "$json:url$",
+    "ThumbnailURL": "$json:thumb$",
+    "DeletionURL": "$json:del_url$"
+}
