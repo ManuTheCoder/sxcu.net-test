@@ -1,0 +1,9 @@
+{
+    "Name": "sxcu.net - freefileupload.shx.gg",
+    "DestinationType": "ImageUploader",
+    "RequestURL": "https://freefileupload.shx.gg/upload",
+    "FileFormName": "image",
+    "URL": "$json:url$",
+    "ThumbnailURL": "$json:thumb$",
+    "DeletionURL": "$json:del_url$"
+}
